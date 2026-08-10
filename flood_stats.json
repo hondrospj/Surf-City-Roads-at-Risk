@@ -1,6 +1,6 @@
 {
   "schema": "roads-at-risk-flood-stats-v2",
-  "generatedAt": "2026-08-10T20:28:36.436Z",
+  "generatedAt": "2026-08-10T22:43:30.782Z",
   "gaugeName": "Ship Bottom",
   "station": {
     "usgsGaugeId": "01409146",
